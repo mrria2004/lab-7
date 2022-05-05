@@ -1,2 +1,6 @@
 Hello world!!!
 I'm Maria Andrusyshyn
+
+Додати новий текс у файл
+відмінити останній коміт
+
